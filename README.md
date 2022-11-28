@@ -8,6 +8,7 @@ $ cd three-space
 ```
 ```
 $ npm install
+$ npm i parcel
 ```
 ```
 $ parcel ./src/index.html
